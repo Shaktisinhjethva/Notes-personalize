@@ -1,0 +1,8 @@
+{
+  "name": "Error404 Pro",
+  "description": "A high-performance note-taking application inspired by Samsung Notes, featuring rich text editing, digital ink drawing, and smart intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
